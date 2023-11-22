@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Product A",
+    "description": "Description for Product A...",
+    "price": 19.99,
+    "imageURL": "https://example.com/productA.jpg"
+  },
+  {
+    "name": "Product B",
+    "description": "Description for Product B...",
+    "price": 29.99,
+    "imageURL": "https://example.com/productB.jpg"
+  },
+  {
+    "name": "Product C",
+    "description": "Description for Product C...",
+    "price": 39.99,
+    "imageURL": "https://example.com/productC.jpg"
+  },
+  {
+    "name": "Product D",
+    "description": "Description for Product D...",
+    "price": 49.99,
+    "imageURL": "https://example.com/productD.jpg"
+  },
+  {
+    "name": "Product E",
+    "description": "Description for Product E...",
+    "price": 59.99,
+    "imageURL": "https://example.com/productE.jpg"
+  },
+  {
+    "name": "Product F",
+    "description": "Description for Product F...",
+    "price": 69.99,
+    "imageURL": "https://example.com/productF.jpg"
+  },
+  {
+    "name": "Product G",
+    "description": "Description for Product G...",
+    "price": 79.99,
+    "imageURL": "https://example.com/productG.jpg"
+  },
+  {
+    "name": "Product H",
+    "description": "Description for Product H...",
+    "price": 89.99,
+    "imageURL": "https://example.com/productH.jpg"
+  },
+  {
+    "name": "Product I",
+    "description": "Description for Product I...",
+    "price": 99.99,
+    "imageURL": "https://example.com/productI.jpg"
+  },
+  {
+    "name": "Product J",
+    "description": "Description for Product J...",
+    "price": 109.99,
+    "imageURL": "https://example.com/productJ.jpg"
+  }
+]
